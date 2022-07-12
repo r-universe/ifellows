@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "OpenStreetMap"]
-	path = OpenStreetMap
-	url = https://github.com/ifellows/rosm
-	shallow = true
-	subdir = OpenStreetMap
-	registered = true
