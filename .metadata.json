@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "OpenStreetMap",
+    "oncran": true
+  }
+]
