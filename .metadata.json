@@ -2,5 +2,9 @@
   {
     "package": "OpenStreetMap",
     "oncran": true
+  },
+  {
+    "package": "wordcloud",
+    "oncran": true
   }
 ]

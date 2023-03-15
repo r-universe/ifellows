@@ -9,3 +9,8 @@
 	shallow = true
 	subdir = OpenStreetMap
 	registered = true
+[submodule "wordcloud"]
+	path = wordcloud
+	url = https://github.com/ifellows/wordcloud
+	shallow = true
+	registered = true
